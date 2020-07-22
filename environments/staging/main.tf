@@ -11,5 +11,8 @@ module "terraform-statuspage" {
         "Website Services" = {
             description = "Main company Website infrastructure services."
         }
+        "API Services" = {
+            description = "Main company API infrastructure services."
+        }
     }
 }
